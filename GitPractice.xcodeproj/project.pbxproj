@@ -112,8 +112,6 @@
 		6B39439A18AC14BA008470E1 /* GitPractice */ = {
 			isa = PBXGroup;
 			children = (
-				6B3943A318AC14BB008470E1 /* AppDelegate.h */,
-				6B3943A418AC14BB008470E1 /* AppDelegate.m */,
 				6B3943A618AC14BB008470E1 /* Main.storyboard */,
 				6B3943A918AC14BB008470E1 /* ViewController.h */,
 				6B3943AA18AC14BB008470E1 /* ViewController.m */,
@@ -126,6 +124,8 @@
 		6B39439B18AC14BA008470E1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				6B3943A318AC14BB008470E1 /* AppDelegate.h */,
+				6B3943A418AC14BB008470E1 /* AppDelegate.m */,
 				6B39439C18AC14BA008470E1 /* GitPractice-Info.plist */,
 				6B39439D18AC14BA008470E1 /* InfoPlist.strings */,
 				6B3943A018AC14BB008470E1 /* main.m */,
